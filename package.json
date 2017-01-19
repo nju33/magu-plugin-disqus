@@ -1,7 +1,7 @@
 {
   "name": "magu-plugin-disqus",
   "version": "0.0.1",
-  "description": "",
+  "description": "Magu plugin that inject disqus",
   "repository": "nju33/magu-plugin-disqus",
   "main": "./magu-plugin-disqus.js",
   "scripts": {
