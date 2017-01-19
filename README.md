@@ -1,5 +1,7 @@
 # magu-plugin-disqus
 
+[Magu](https://github.com/nju33/magu) plugin that inject disqus
+
 [![Build Status](https://travis-ci.org/nju33/magu-plugin-disqus.svg?branch=master)](https://travis-ci.org/nju33/magu-plugin-disqus) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) ![Dependencies Status](https://david-dm.org/nju33/magu-plugin-disqus.svg)
 
 ## Install

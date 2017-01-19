@@ -8,7 +8,7 @@
     "start": "gulp watch",
     "example": "node -r babel-register example/compile.js",
     "prepublish": "yarn build",
-    "build": "NODE_ENV=production gulp babel",
+    "build": "NODE_ENV=production gulp babel txt",
     "pretest": "yarn build",
     "test": "xo && ava"
   },
