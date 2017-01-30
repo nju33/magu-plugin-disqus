@@ -30,7 +30,7 @@ With markdown like this
 
 contents
 
-<disqus uuid=842a1d40-de19-11e6-8e19-d1f8596fcd4d />
+<disqus name=name uuid=842a1d40-de19-11e6-8e19-d1f8596fcd4d />
 ```
 
 By default, this plugin looks at the `<disqus>` element. For that element, you need to specify the `uuid` attribute.
@@ -49,7 +49,7 @@ It will be like this after the conversion
   (function() {
     var d = document,
       s = d.createElement('script');
-    s.src = '//test-i3nu5ckmb5.disqus.com/embed.js';
+    s.src = '//name.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
